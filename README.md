@@ -1,2 +1,4 @@
 # han0ah.github.io
-han0ah blog
+KiJong's github pages blog
+
+Powered by [Jekyll](http://jekyllrb.com) and [codinfox-lanyon](https://github.com/codinfox/codinfox-lanyon)
