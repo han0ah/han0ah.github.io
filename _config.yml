@@ -1,6 +1,6 @@
 # Site Info
-title: Codinfox Lanyon
-tagline: 'A Jekyll theme based on Lanyon'
+title: 한기종의 블로그
+tagline: han0ah's Blog
 description: 'A Jekyll theme adapted from <a href="http://lanyon.getpoole.com/" target="_blank">Lanyon</a>. Made by <a href="http://codinfox.github.io" target="_blank">@codinfox</a>.'
 baseurl: ""
 url: http://han0ah.github.io
@@ -24,16 +24,14 @@ version: 1.0.0
 
 # About/contact
 author:
-  name: Codinfox
-  description: A passionate <strong>developer and researcher</strong>, learning to be a giant.
+  name: han0ah
+  description: Software engineer and Master's candidate in computer science.
   gravatar: 3c2986ad7ac1f2230ea3596f44563328 # md5 hash of your email address
   contact:
-    linkedin:  https://www.linkedin.com/in/lizhihao
-    github:    https://github.com/codinfox
+    linkedin:  https://www.linkedin.com/in/han0ah
+    github:    https://github.com/han0ah
     # facebook:  <hide>
-    twitter:   https://twitter.com/Li_Zhihao
-    weibo:     http://weibo.com/41173780
-    email:     http://www.google.com/recaptcha/mailhide/d?k=01I3lZFiZYng9N3QxYEtsDaQ==&c=31wAnZkuKqcG0ATAqJN8Z3ln5kkYLA9TwkGc-IbygpM=
+    email:     mailto:cumgi31@kaist.ac.kr
 
 # Navigation (2nd level links supported)
 nav:
@@ -45,8 +43,6 @@ nav:
     - { Tags: '/blog/tags/' }
   About:          
     - '/about/'
-  Github Project: 
-    - 'http://codinfox.github.io/'
 
 # Where are tags and categories displayed
 tag_page: '/blog/tags/'
